@@ -1,0 +1,106 @@
+.container {
+	width: 1000px;
+    height: 700px;
+    background-color: #FFF;
+    position: relative;
+}
+
+.parede {
+	width: 150px;
+    height: 430px;
+    background-color: gray;
+    position: absolute;
+    bottom: 30px;
+    left: 100px;
+}
+
+.janela {
+	width: 100px;
+    height: 80px;
+    background-color: lightgray;
+    position: absolute;
+    top: 260px;
+    left: 125px
+}
+
+.parede-2 {
+	width: 500px;
+    height: 345px;
+    background-color: gray;
+    position: absolute;
+    right: 250px;
+    bottom: 30px;
+}
+
+.coluna {
+	width: 60px;
+    height: 55px;
+    background-color: gray;
+    position: absolute;
+    right: 250px;
+    top: 270px;
+}
+
+.coluna-2 {
+	width: 60px;
+	height: 55px;
+	background-color: gray;
+	position: absolute;
+	right: 335px;
+	top: 270px;
+}
+
+.coluna-3 {
+	width: 60px;
+	height: 55px;
+	background-color: gray;
+	position: absolute;
+	right: 420px;
+	top: 270px;
+}
+
+.coluna-4 {
+	width: 60px;
+	height: 55px;
+	background-color: gray;
+	position: absolute;
+	right: 505px;
+	top: 270px;
+}
+
+.coluna-5 {
+	width: 60px;
+	height: 55px;
+	background-color: gray;
+	position: absolute;
+	right: 589px;
+	top: 270px;
+}
+
+.coluna-6 {
+	width: 60px;
+	height: 55px;
+	background-color: gray;
+	position: absolute;
+	left: 266px;
+	top: 270px;
+}
+
+.porta {
+	width: 90px;
+    height: 148px;
+    background-color: lightgray;
+    position: absolute;
+    left: 120px;
+    bottom: 30px;
+}
+
+.title {
+	width: 365px;
+    height: 20px;
+    color: white;
+    position: absolute;
+    right: 340px;
+    bottom: 272px;
+    font-size: 3rem;
+}
